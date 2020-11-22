@@ -12,6 +12,6 @@ Another attacks is a strong attack which does more damage than a normal attack b
 Ait attack is an attack that the player can do in the air.
 
 A player can lose a life once they fall of the stage.
-The greater the players hit points(hp) the further the player will be knocked back.
+The greater the players hp(health points) the further the player will be knocked back.
 If a player loses all their lives they lose the game.
 If a player has less lives once the timer ends the player loses.
